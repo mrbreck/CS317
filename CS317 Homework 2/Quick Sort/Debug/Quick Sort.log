@@ -1,0 +1,14 @@
+﻿Build started 6/18/2014 3:29:38 PM.
+     1>Project "C:\Users\bb0032\Desktop\CS317 Homework 2\Quick Sort\Quick Sort.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "Quick Sort.cpp"
+         Quick Sort.cpp
+     1>c:\users\bb0032\desktop\cs317 homework 2\quick sort\quick sort.cpp(16): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\bb0032\Desktop\CS317 Homework 2\Debug\Quick Sort.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\bb0032\Desktop\CS317 Homework 2\Debug\Quick Sort.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\bb0032\Desktop\CS317 Homework 2\Debug\Quick Sort.lib" /MACHINE:X86 "Debug\Quick Sort.obj"
+         Quick Sort.vcxproj -> C:\Users\bb0032\Desktop\CS317 Homework 2\Debug\Quick Sort.exe
+     1>Done Building Project "C:\Users\bb0032\Desktop\CS317 Homework 2\Quick Sort\Quick Sort.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.44
